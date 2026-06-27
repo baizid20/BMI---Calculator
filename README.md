@@ -31,7 +31,7 @@ BMI is calculated using the following formula:
 Example:
 
 * Weight: 70 kg
-* Height: 1.75 m
+* Height: 1.75 m / 5 foot
 * BMI = 70 / (1.75 × 1.75) = **22.86**
 
 ## 🎯 Purpose
